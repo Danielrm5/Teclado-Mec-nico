@@ -62,5 +62,5 @@ El teclado mecánico representa una inversión superior frente a los teclados de
 Este proyecto está bajo la Licencia MIT.
 
 **Autores:**
-* [Tu Nombre Aquí]
+* [Daniel Romero]
 * Asignatura: Fundamentos de Hardware (FHW)
