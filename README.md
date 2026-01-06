@@ -57,10 +57,3 @@ El teclado mecánico representa una inversión superior frente a los teclados de
 * Documentación técnica de Cherry MX (cherrymx.de)
 * Logitech G Official Site
 * Wikipedia: Tecnología de teclados.
-
-**Licencia:**
-Este proyecto está bajo la Licencia MIT.
-
-**Autores:**
-* [Daniel Romero]
-* Asignatura: Fundamentos de Hardware (FHW)
