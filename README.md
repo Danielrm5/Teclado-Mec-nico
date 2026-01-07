@@ -9,9 +9,7 @@ Trabajo de investigación sobre periféricos de entrada: El Teclado Mecánico.
 
 Un **teclado mecánico** es un periférico de entrada que utiliza interruptores individuales (switches) para cada tecla, a diferencia de los teclados de membrana que usan una lámina de goma. Al pulsar una tecla, se activa un mecanismo físico que envía la señal al ordenador, ofreciendo una respuesta táctil y auditiva precisa.
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mechanical_keyboard_switches.jpg/800px-Mechanical_keyboard_switches.jpg)
-*(Nota: Puedes cambiar esta imagen por una que subas a tu repositorio)*
-
+!(https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a090ca5-094a-4df1-a1c1-b511c78c54a4.__CR0,0,600,450_PT0_SX600_V1___.png)
 ---
 
 ## 2. Características principales
